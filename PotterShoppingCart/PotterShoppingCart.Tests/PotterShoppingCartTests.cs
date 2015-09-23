@@ -30,6 +30,7 @@ namespace PotterShoppingCart.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void 第一集買了一本_第二集也買了一本_價格應為190()
         {
             // Arrange
@@ -44,6 +45,7 @@ namespace PotterShoppingCart.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void 一二三集各買了一本_價格應為270()
         {
             // Arrange
@@ -59,6 +61,7 @@ namespace PotterShoppingCart.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void 一二三四集各買了一本_價格應為320()
         {
             // Arrange
@@ -75,6 +78,7 @@ namespace PotterShoppingCart.Tests
             // Assert
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod()]
         public void 一次買了整套_一二三四五集各買了一本_價格應為375()
         {
             // Arrange
@@ -93,6 +97,7 @@ namespace PotterShoppingCart.Tests
             Assert.AreEqual(expected, actual);
         }
         // 100*3*0.9 + 100 = 370
+        [TestMethod()]
         public void 一二集各買了一本_第三集買了兩本_價格應為370()
         {
             // Arrange
@@ -110,6 +115,7 @@ namespace PotterShoppingCart.Tests
             Assert.AreEqual(expected, actual);
         }
         // 100*3*0.9 + 100*2*0.95 = 460
+        [TestMethod()]
         public void 第一集買了一本_第二三集各買了兩本_價格應為460()
         {
             // Arrange
