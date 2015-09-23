@@ -1,0 +1,5 @@
+C:\TDD\Homework\PotterShoppingCart\PotterShoppingCart\bin\Debug\PotterShoppingCart.dll
+C:\TDD\Homework\PotterShoppingCart\PotterShoppingCart\bin\Debug\PotterShoppingCart.pdb
+C:\TDD\Homework\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.dll
+C:\TDD\Homework\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.pdb
+C:\TDD\Homework\PotterShoppingCart\PotterShoppingCart\obj\Debug\PotterShoppingCart.csprojResolveAssemblyReference.cache
